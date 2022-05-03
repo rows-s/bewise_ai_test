@@ -1,0 +1,8 @@
+venv
+Dockerfile
+.dockerignore
+.gitignore
+.git
+.idea
+LICENSE
+README.md
